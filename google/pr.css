@@ -1,0 +1,31 @@
+#title{
+  margin-top: 200px;
+  color: blue;
+  font-size: 80px;
+  text-align: center;
+}
+#title span:nth-child(1){
+  color: blue;
+}
+#title span:nth-child(2){
+  color: red;
+}
+#title span:nth-child(3){
+  color: yellow;
+}
+#title span:nth-child(4){
+  color: blue;
+}
+#title span:nth-child(5){
+  color: green;
+}
+#title span:nth-child(6){
+  color: red;
+}
+#search{
+  margin-top: 30px;
+  text-align: center;
+}
+.search-bar{
+  width: 500px;
+}
